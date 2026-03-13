@@ -182,7 +182,7 @@ Raj Gaurav Kumar Singh
 Bengal Institute of Technology
 
 GitHub
-https://github.com/YOUR_USERNAME
+https://github.com/rajgaurav07
 
 ---
 
