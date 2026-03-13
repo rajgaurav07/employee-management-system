@@ -73,7 +73,7 @@ pom.xml
 
 ## 1️⃣ Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/employee-management-system.git
+git clone https://github.com/rajgaurav07/employee-management-system.git
 
 cd employee-management-system
 
