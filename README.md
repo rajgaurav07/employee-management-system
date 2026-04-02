@@ -1,4 +1,4 @@
-# 🚀 Employee Management System
+# Employee Management System
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-3.x-green)
@@ -176,7 +176,7 @@ APIs can be tested using:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 Raj Gaurav Kumar Singh
 Bengal Institute of Technology
@@ -184,8 +184,4 @@ Bengal Institute of Technology
 GitHub
 https://github.com/rajgaurav07
 
----
 
-# ⭐ If you like this project
-
-Give it a ⭐ on GitHub to support the project.
